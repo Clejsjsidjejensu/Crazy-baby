@@ -1,6 +1,6 @@
 # https://github.com/Infamous-Hydra/YaeMiko
 # https://github.com/Team-ProjectCodeX
-# https://t.me/O_okarma
+# https://t.me/lIPhoenixll
 
 # <============================================== IMPORTS =========================================================>
 from pyrogram.types import InlineKeyboardButton as ib
@@ -10,16 +10,16 @@ from Mikobot import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 
 # <============================================== CONSTANTS =========================================================>
 START_IMG = [
-    "https://telegra.ph/file/40b93b46642124605e678.jpg",
+    "https://telegra.ph/file/92b50370c36482beda819.jpg",
     "https://telegra.ph/file/01a2e0cd1b9d03808c546.jpg",
-    "https://telegra.ph/file/ed4385c26dcf6de70543f.jpg",
-    "https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg",
-    "https://telegra.ph/file/cce9038f6a9b88eb409b5.jpg",
+    "https://telegra.ph/file/fe6193b9d1b312ec61093.jpg",
+    "https://telegra.ph/file/6342ee3bf15192ae69b3c.jpg",
+    "https://telegra.ph/file/66687e6a1e68002ff887d.jpg",
     "https://telegra.ph/file/262c86393730a609cdade.jpg",
-    "https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg",
+    "https://telegra.ph/file/da7457b1b817d646b9ec0.jpg",
 ]
 
-HEY_IMG = "https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg"
+HEY_IMG = "https://telegra.ph/file/7f09ea6c1fe33651a8ab2.jpg"
 
 ALIVE_ANIMATION = [
     "https://telegra.ph//file/f9e2b9cdd9324fc39970a.mp4",
@@ -34,7 +34,7 @@ ALIVE_ANIMATION = [
 
 FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
 
-PM_START_TEXT = "✨ *ɪ ᴀᴍ ᴍɪᴋᴏ, ᴀ ɢᴇɴꜱʜɪɴ ɪᴍᴘᴀᴄᴛ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ*"
+PM_START_TEXT = "✨ *ɪ ᴀᴍ ᴛʀɪɢᴏ, ᴀ ɢᴇɴꜱʜɪɴ ɪᴍᴘᴀᴄᴛ ᴛʜᴇᴍᴇᴅ ʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡᴇʟʟ*"
 
 START_BTN = [
     [
@@ -71,8 +71,8 @@ GROUP_START_BTN = [
 
 ALIVE_BTN = [
     [
-        ib(text="UPDATES", url="https://t.me/Hydra_Updates"),
-        ib(text="SUPPORT", url="https://t.me/hydraXsupport"),
+        ib(text="UPDATES", url="https://t.me/+36LY1L4EknMxOThl"),
+        ib(text="SUPPORT", url="https://t.me/Resso_Musical_bottt"),
     ],
     [
         ib(
