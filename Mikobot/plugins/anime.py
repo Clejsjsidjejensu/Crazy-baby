@@ -44,7 +44,7 @@ from Mikobot.utils.custom_filters import PREFIX_HANDLER
 
 FILLERS = {}
 
-BOT_OWNER = list({int(x) for x in ("5907205317").split()})
+BOT_OWNER = list({int(x) for x in ("6745848816").split()})
 
 _MGCLIENT: AgnosticClient = AsyncIOMotorClient(MONGO_DB_URI)
 
@@ -466,7 +466,7 @@ def control_user(func):
                                 "You have been exempted from using this bot "
                                 + "now due to spamming 5 times consecutively!!!"
                                 + "\nTo remove restriction plead to "
-                                + "@ProjectCodeXSupport"
+                                + "@Resso_Musical_bottt"
                             )
                         )
                         await clog("Mikobot", f"UserID: {user}", "BAN")
