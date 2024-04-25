@@ -32,7 +32,7 @@ def dt_tom():
 tomorrow = str(dt_tom())
 today = str(dt()[0])
 
-COUPLES_PIC = "https://telegra.ph/file/c6d0c884f559b9ed8a54e.jpg"
+COUPLES_PIC = "https://telegra.ph/file/92b50370c36482beda819.jpg"
 C = """
 ✧ 𝗖𝗢𝗨𝗣𝗟𝗘𝗦 𝗢𝗙 𝗧𝗛𝗘 𝗗𝗔𝗬 ✧
 ➖➖➖➖➖➖➖➖➖➖➖➖
@@ -59,9 +59,9 @@ CAP2 = """
 
 @app.on_message(filters.command(["couple", "couples", "shipping"]) & ~filters.private)
 async def nibba_nibbi(_, message):
-    if message.from_user.id == 5540249238:
+    if message.from_user.id == 7077597269:
         my_ = await _.get_users("rfxtuv")
-        me = await _.get_users(5540249238)
+        me = await _.get_users(7077597269)
         await message.reply_photo(
             photo=COUPLES_PIC, caption=C.format(me.mention, tomorrow)
         )
